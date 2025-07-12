@@ -18,3 +18,13 @@ Spatiotemporally resolved ambient temperature data is essential for environmenta
 | Spatial Coverage  | São Paulo municipality - bounding box  (lonmin: -46.9559; latmin: -24.0854; lonmax: -46.2226; latmax: -23.2839, coordinate reference system: WGS84)  |
 | Format  | TIFF  |
 | Date uploaded | 12.07.2025  |
+
+
+## How to use this repository:
+1. Open the 'RFTemp_PipelineApril2023.ipynb' file in Google Collab. Read the instructions.
+2. Download the 'modelinput_2015_2019.zip". Extract the contents. 
+3. Downlad the contents of the folder 'newdata'
+4. Store the files downloaded in step 2 and 3 in the right folders, as indicated in section 1.2 of 'RFTemp_PipelineApril2023.ipynb'
+5. Run the code
+
+NOTE: This is just a test code. Does not include the full extent of the dataset. For access to all dataset, please contact the author: ainaroca16@gmail.com
