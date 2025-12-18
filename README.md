@@ -27,4 +27,4 @@ Spatiotemporally resolved ambient temperature data is essential for environmenta
 4. Store the files downloaded in step 2 and 3 in the right folders, as indicated in section 1.2 of 'RFTemp_PipelineApril2023.ipynb'
 5. Run the code
 
-NOTE: This is just a test code. Does not include the full extent of the dataset. For access to all dataset, please contact the author: ainaroca16@gmail.com
+NOTE: This is just a test code. Does not include the full extent of the dataset.
